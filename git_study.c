@@ -24,7 +24,3 @@ void functionD(){
 void functionE(){
     
 }
-
-void functionF(){
-    
-}
