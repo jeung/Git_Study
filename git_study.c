@@ -3,6 +3,7 @@ void main(){
     functionB();
     functionC();
     functionD();
+    functionE();
 }
 
 void functionA(){
@@ -15,7 +16,7 @@ void functionB(){
 }
 
 void functionC(){
-    
+    printf("lol");
 }
 
 void functionD(){
