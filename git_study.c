@@ -6,7 +6,8 @@ void main(){
 }
 
 void functionA(){
-    printf("Hi")
+    printf("Hi");
+    printf("This is Function A");
 }
 
 void functionB(){
