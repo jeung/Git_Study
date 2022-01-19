@@ -20,3 +20,11 @@ void functionC(){
 void functionD(){
     
 }
+
+void functionE(){
+    
+}
+
+void functionF(){
+    
+}
