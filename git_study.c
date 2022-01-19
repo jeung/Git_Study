@@ -16,7 +16,8 @@ void functionB(){
 }
 
 void functionC(){
-    printf("lol");
+    printf("Hi");
+    printf("This is Function C");
 }
 
 void functionD(){
