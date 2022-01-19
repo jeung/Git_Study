@@ -6,11 +6,12 @@ void main(){
 }
 
 void functionA(){
-
+    printf("LoL");
 }
 
 void functionB(){
-    
+    printf("Hi");
+    printf("This is functionB");
 }
 
 void functionC(){
