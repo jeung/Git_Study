@@ -30,3 +30,11 @@ void functionD(){
 void functionE(){
     
 }
+
+void functionF(){
+    
+}
+
+void functionG(){
+    
+}
