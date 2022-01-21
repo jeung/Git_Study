@@ -21,20 +21,8 @@ void functionC(){
 }
 
 void functionD(){
-    printf("Hi");
-    printf("This is Function D");
-    printf("Hi");
-    printf("This is Function D");
 }
 
 void functionE(){
-    
-}
-
-void functionF(){
-    
-}
-
-void functionG(){
     
 }
